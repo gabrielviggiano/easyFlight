@@ -1,0 +1,42 @@
+{
+  "name": "trabalho_tpa",
+  "version": "0.0.1",
+  "description": "Sistema para busca de voos domésticos",
+  "productName": "Easy Fly",
+  "author": "gabriel viggiano fonseca <gviggianofonseca@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@fawmi/vue-google-maps": "^0.9.72",
+    "@quasar/extras": "^1.0.0",
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "leaflet": "^1.8.0",
+    "quasar": "^2.0.0",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vue2-leaflet": "^2.7.1"
+  },
+  "devDependencies": {
+    "@quasar/app": "^3.0.0",
+    "@vue-leaflet/vue-leaflet": "^0.6.1"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

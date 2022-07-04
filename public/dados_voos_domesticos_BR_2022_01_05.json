@@ -1,0 +1,53 @@
+{
+  "287239":{
+  "nm_pais_origem":"BRASIL",
+  "nm_empresa":"TAM LINHAS AÉREAS S.A.",
+  "nr_voo":3623,
+  "dt_referencia":"2022-05-17",
+  "dt_partida_real":"2022-05-17",
+  "hr_partida_real":"09:33:00",
+  "dt_chegada_real":"2022-05-17",
+  "hr_chegada_real":"12:12:00",
+  "sg_uf_origem":"BA",
+  "sg_iata_origem":"SSA",
+  "nm_municipio_origem":"SALVADOR",
+  "sg_uf_destino":"SP",
+  "sg_iata_destino":"CGH",
+  "nm_municipio_destino":"SÃO PAULO",
+  "km_distancia":1480
+ },
+ "287240":{
+  "nm_pais_origem":"BRASIL",
+  "nm_empresa":"TAM LINHAS AÉREAS S.A.",
+  "nr_voo":3408,
+  "dt_referencia":"2022-05-14",
+  "dt_partida_real":"2022-05-14",
+  "hr_partida_real":"16:55:00",
+  "dt_chegada_real":"2022-05-14",
+  "hr_chegada_real":"19:53:00",
+  "sg_uf_origem":"SP",
+  "sg_iata_origem":"CGH",
+  "nm_municipio_origem":"SÃO PAULO",
+  "sg_uf_destino":"PE",
+  "sg_iata_destino":"REC",
+  "nm_municipio_destino":"RECIFE",
+  "km_distancia":2129
+ },
+ "287241":{
+  "nm_pais_origem":"BRASIL",
+  "nm_empresa":"TAM LINHAS AÉREAS S.A.",
+  "nr_voo":3724,
+  "dt_referencia":"2022-05-22",
+  "dt_partida_real":"2022-05-22",
+  "hr_partida_real":"08:14:00",
+  "dt_chegada_real":"2022-05-22",
+  "hr_chegada_real":"10:03:00",
+  "sg_uf_origem":"DF",
+  "sg_iata_origem":"BSB",
+  "nm_municipio_origem":"BRASÍLIA",
+  "sg_uf_destino":"PR",
+  "sg_iata_destino":"CWB",
+  "nm_municipio_destino":"SÃO JOSÉ DOS PINHAIS",
+  "km_distancia":1082
+ }
+}
