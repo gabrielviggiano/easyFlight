@@ -10,7 +10,7 @@ const hashAirports = (airports) => {
             ...airport
         }
     });
-    
+
     return hashAirport;
 };
 
@@ -20,7 +20,6 @@ const buildGraph = (airports) => {
     console.log("Hash***", hashAirport)
     console.log("Hash", hashAirport[2518])
     if(hashAirport[2518]) {
-        console.log("ENTROOOOOOOOOU")
         airports.forEach(airport => {
             airport['destinations'].forEach(destination => {
                 if(hashAirport[2518]) {

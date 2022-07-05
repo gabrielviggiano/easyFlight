@@ -52,23 +52,17 @@ const linksList = [
     title: 'Encontre seu Voo',
     caption: 'quasar.dev',
     icon: 'search',
-    link: 'https://quasar.dev'
-  },
-  {
-    title: 'Todos os voos',
-    caption: 'github.com/quasarframework',
-    icon: 'flight_takeoff',
-    link: 'https://github.com/quasarframework'
+    link: '/'
   },
   {
     title: 'Nosso Código',
-    caption: 'chat.quasar.dev',
+    caption: 'github.com/gabrielviggiano/easyFlight',
     icon: 'code',
-    link: 'https://chat.quasar.dev'
+    link: 'https://github.com/gabrielviggiano/easyFlight'
   },
   {
     title: 'Integrantes',
-    caption: 'forum.quasar.dev',
+    caption: 'Gabriel Marchezi, Gabriel Viggiano, Morgana Vettorazzi e Renato Bellumat',
     icon: 'group',
     link: 'https://forum.quasar.dev'
   }

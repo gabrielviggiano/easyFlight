@@ -3,7 +3,7 @@
     <l-map
       v-model="zoom"
       v-model:zoom="zoom"
-      :center="[47.41322, -1.219482]"
+      :center="[40.737, -73.923]"
       @move="log('move')"
     >
       <l-tile-layer
@@ -18,7 +18,7 @@
 
       <l-polyline
         :lat-lngs="latLang"
-        color="grey"
+        color="black"
       ></l-polyline>
     </l-map>
   </div>
